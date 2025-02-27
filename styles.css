@@ -78,6 +78,7 @@ img{
     margin: 50px auto;
     padding: 20px;
     opacity: 0.9; 
+    position: fixed;
   }
 
   p {
